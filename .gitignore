@@ -10,3 +10,13 @@
 /test-driver
 Makefile.in
 Makefile
+build/
+autom4te.cache/
+tests/.deps/
+.DS_Store
+*.m4
+iRRAM_VERSION
+config.log
+config.status
+configure~
+examples/Makefile-pre
